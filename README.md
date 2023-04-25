@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aman Devrath (@aman-devrath)
-- 👀 I’m interested in Python and its data science/analysis libraries
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently an OutSystems Developer, looking to transition into Analytics world by leveraging my skills.
+- 👀 I’m interested in Analytics World. Hence Learning Tableau, PowerBI, Python with its Data Science/Analysis Libraries.
+
 
 
 <!---
